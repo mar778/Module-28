@@ -1,6 +1,6 @@
 Тестовый проект курса QAP
 
-Автоматизированное тестирование UI сайта: https://b2c.passport.rt.ru с использованием PyTest и Selenium.
+Автоматизированное тестирование сайта: https://b2c.passport.rt.ru с использованием PyTest и Selenium.
 
 1)Тест-кейсы по ссылке: https://docs.google.com/spreadsheets/d/1IPDI9-_Yz0FN8KxJnqKNo5sPMrEE37JX/edit#gid=1476046194 
 
